@@ -14,6 +14,7 @@
 - Wireframe betaling bevestiging gemaakt
 - Wireframe betaling gegevens gemaakt
 - Wireframe overzicht van de opgezochte producten pagina gemaakt
+- presentatie en moodbord
 
 ---
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
